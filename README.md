@@ -19,7 +19,6 @@ means of gathering answers to questions online on a large scale.
 - Diagrams should be available for:
 - A high-level diagram depicting the use case and how your application resolves the issue
   - Database diagrams illustrating entities and relationships
-- The application should be run within a Docker image.
 - Data is persisted to some sort of data store. Please keep in mind that you must explain your storage preference.
 - Provide a diagram of how you would host your application on Azure and be able to explain your choices.
 
@@ -88,6 +87,12 @@ Please fork the repository to your account, add armand.jordaan@oig.nl.com as a c
 
 Ideally, you should be able to deliver this assessment within 48 hours of starting it. The objective is to add a time constraint to assess how much you can get done, where you cut corners, and why.
 
+## Bonus
+Adding the following functionality would make you stand out from other candidates:
+- App running in docker
+- App deployed to an Azure App Serivces For containers or *Azure Container Apps*
+- If you opted for a relational database then being able to spin up the db in a docker images
+- Hosting your DB on one of the Azure Data services
 
 ## Finally
 We understand that you can fill in certain parts of the above specifications as liberally or strictly as you desire. We would
