@@ -11,8 +11,8 @@ Create an application in which the end-user can plan and manage questionnaires. 
 means of gathering answers to questions online on a large scale.
 
 ### Prerequisites
-- The application is built on either the latest .NET framework or .NET. 
-- You should use.NET MVC (the.Net framework) or Blazor.
+- Project type should be ASP.NET MVC targeting either .Net Framework or Latest version of dotnet(.Net 6 or later).
+- You can choose to use Blazor Server targeting .Net 6 or later and follow an MVC patterns.
 - You can use any CSS component framework of your choice. Prioritize functionality over looks.
 - You use some sort of architecture approach, and you are not allowed to inject your DB context directly into a controller as this would immediately disqualify your application. 
 - You can use a database or code first. Note that you will need to explain your decision.
