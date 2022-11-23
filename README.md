@@ -1,9 +1,6 @@
 # oig-survey-app-assessment
 Coding assessment for new developers @ OIG
 
-# oig-survey-app-assessment
-Coding assessment for new developers @ OIG
-
 ## Introduction
 Thank you for taking the time to give us an insight into your development style. In this short assignment, we ask you to build a small application based on what you might encounter when joining OIG. In our next meeting, we will discuss which approaches you used and what decisions you made.
 
