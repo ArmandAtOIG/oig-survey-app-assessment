@@ -95,8 +95,7 @@ Adding the following functionality would make you stand out from other candidate
 - Hosting your DB on one of the Azure Data services
 
 ## Finally
-We understand that you can fill in certain parts of the above specifications as liberally or strictly as you desire. We would
-Therefore, I would like to offer you the following:
+We understand that you can fill in certain parts of the above specifications as liberally or strictly as you desire.
 - "As the owner of a questionnaire,"  ownership and the associated plumbing are a lot of work. It is sufficient to
 deliver the application without a security solution.
 - It is sufficient to show a working prototype of the application with the requested functionality implemented.
