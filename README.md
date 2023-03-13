@@ -80,7 +80,7 @@ a questionnaire via a link on a website. How would you arrange that?
 
 ## Working with Github
 
-Please fork the repository to your account, add armand.jordaan@oig.nl.com as a collaborator, and add a commit message indicating you have started the assessment. Once completed, please let us know so we can schedule the next phase.
+Please fork the repository to your account, add armand.jordaan@oig.nl as a collaborator, and add a commit message indicating you have started the assessment. Once completed, please let us know so we can schedule the next phase.
 
 
 ## Time Restriction
