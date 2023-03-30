@@ -57,9 +57,9 @@ Build at least the following screens:
 - Create-screen for a questionnaire
 - Update-screen for a questionnaire
 - Overview-screen of questionnaires
-  - Display at least the name, startdate/time and enddate/time
-  - Sort the overview-screen by startdate/time, enddate/time (by default)
-  - Create an intuitive search-function for questionnaires
+  -- Display at least the name, startdate/time and enddate/time
+  -- Sort the overview-screen by startdate/time, enddate/time (by default)
+  -- Create an intuitive search-function for questionnaires
 - A stub for the "answering-screen"; it is in this stage sufficient to display the questionnaire status.
 
 ### Non-functionals
